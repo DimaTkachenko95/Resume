@@ -9,6 +9,9 @@
 .nameStyle{
     padding-top: 20px;
 }
+
+
+
 .surname{
     margin: auto;
     font-family: 'Plus Jakarta Sans',sans-serif;
@@ -38,15 +41,48 @@
     display: flex;
     justify-content: center;
 
-
 }
+@media screen and (max-width:992px) {
+    .contact {
+        display: block;
+    }
+}
+@media screen and (max-width:992px) {
+    .phone{
+        background-color: #6c757d;
+        border-radius: 10px;
+        max-width: 32%;
+        margin: auto;
+    }
+}
+@media screen and (max-width:992px) {
+    .map{
+        background-color: #6c757d;
+        border-radius: 10px;
+        max-width: 28%;
+        margin: auto;
+    }
+}@media screen and (max-width:992px) {
+    .email{
+
+        background-color: #6c757d;
+        border-radius: 10px;
+        max-width: 45%;
+        margin: auto;
+    }
+}
+
+
+
+
+
 .map{
     display: flex;
     padding: 15px;
-    font-family: 'Plus Jakarta Sans';
+    font-family: 'Plus Jakarta Sans',sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 2vw;
     line-height: 9px;
     color: #E2E8F0;
     text-decoration: none;
@@ -57,10 +93,10 @@
 .email{
     display: flex;
     padding: 15px;
-    font-family: 'Plus Jakarta Sans';
+    font-family: 'Plus Jakarta Sans',sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 2vw;
     line-height: 9px;
     color: #E2E8F0;
     text-decoration: none;
@@ -70,10 +106,10 @@
 .phone{
     display: flex;
     padding: 15px;
-    font-family: 'Plus Jakarta Sans';
+    font-family: 'Plus Jakarta Sans',sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 2vw;
     line-height: 9px;
     color: #E2E8F0;
     text-decoration: none;
@@ -97,9 +133,17 @@
     background: linear-gradient(180deg, rgba(15, 23, 42, 0) 0%, #0F172A 100%);
     margin: auto;
     text-align: center;
+
 }
+
 .skil{
     display: flex;
     justify-content: center;
     padding-bottom: 30px;
 }
+@media screen and (max-width:992px) {
+  .skil{
+display: block;
+  }
+}
+

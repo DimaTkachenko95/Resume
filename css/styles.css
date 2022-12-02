@@ -36,46 +36,40 @@
     color: #CBD5E1;
     text-align: center;
 }
+.contactP{
+    margin-bottom: 0;
+}
 .contact {
     margin-top: 15px;
     display: flex;
     justify-content: center;
-
+}
+.contact svg path{
+    fill: white;
 }
 @media screen and (max-width:992px) {
+    .contact svg path{
+        fill: black;
+    }
     .contact {
         display: block;
     }
-
-}
-@media screen and (max-width:992px) {
-    .phone{
-        background-color: #6c757d;
-        border-radius: 10px;
-        max-width: 40%;
-        margin: auto;
-    }
-}
-@media screen and (max-width:992px) {
     .map{
-        background-color: #6c757d;
-        border-radius: 10px;
         max-width: 28%;
         margin: auto;
     }
-}@media screen and (max-width:992px) {
     .email{
-
-        background-color: #6c757d;
-        border-radius: 10px;
         max-width: 45%;
         margin: auto;
     }
+    .phone{
+        max-width: 40%;
+        margin: auto;
+    }
+    .contactP{
+        color: black;
+    }
 }
-
-
-
-
 
 .map{
     display: flex;
@@ -90,9 +84,7 @@
     justify-content: center;
     align-items: center;
 }
-.map:active{
-    color: black;
-}
+
 .email{
     display: flex;
     padding: 15px;
@@ -119,15 +111,7 @@
     justify-content: center;
     align-items: center;
 }
-.map:active{
-    color: black;
-}
-.email:active{
-    color: black;
-}
-.phone:active{
-    color: black;
-}
+
 .map:hover{
     color: black;
 }

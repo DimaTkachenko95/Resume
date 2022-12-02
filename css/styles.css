@@ -1,0 +1,105 @@
+.body{
+    max-width: 100%;
+    margin: auto;
+}
+.name{
+    min-height: 200px;
+    background: linear-gradient(0deg, rgba(15, 23, 42, 0) 0%, #0F172A 100%);
+}
+.nameStyle{
+    padding-top: 20px;
+}
+.surname{
+    margin: auto;
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 35px;
+    color: #E2E8F0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    text-align: center;
+}
+.profession{
+    padding-top: 15px;
+    margin: auto;
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 13px;
+    color: #CBD5E1;
+    text-align: center;
+}
+.contact {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.map{
+    display: flex;
+    padding: 15px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 9px;
+    color: #E2E8F0;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+
+}
+.email{
+    display: flex;
+    padding: 15px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 9px;
+    color: #E2E8F0;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    display: flex;
+    padding: 15px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 9px;
+    color: #E2E8F0;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.textWork{
+    margin: auto;
+    font-family: 'Plus Jakarta Sans',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    text-align: center;
+}
+.workExperience{
+    background: linear-gradient(180deg, rgba(15, 23, 42, 0) 0%, #0F172A 100%);
+    margin: auto;
+    text-align: center;
+}
+.skil{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}

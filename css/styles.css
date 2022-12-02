@@ -46,6 +46,7 @@
     .contact {
         display: block;
     }
+
 }
 @media screen and (max-width:992px) {
     .phone{
@@ -88,7 +89,9 @@
     text-decoration: none;
     justify-content: center;
     align-items: center;
-
+}
+.map:active{
+    color: black;
 }
 .email{
     display: flex;
@@ -115,6 +118,24 @@
     text-decoration: none;
     justify-content: center;
     align-items: center;
+}
+.map:active{
+    color: black;
+}
+.email:active{
+    color: black;
+}
+.phone:active{
+    color: black;
+}
+.map:hover{
+    color: black;
+}
+.email:hover{
+    color: black;
+}
+.phone:hover{
+    color: black;
 }
 .textWork{
     margin: auto;

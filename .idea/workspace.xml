@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b512ca1-2ec2-4929-9294-041089a72e20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/home 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my-app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Button/Button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Button/Modal.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Button/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Controllers/ControlB.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Controllers/Controlers.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Controllers/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669886671882</updated>
       <workItem from="1669886671883" duration="14392000" />
-      <workItem from="1669965604853" duration="404000" />
+      <workItem from="1669965604853" duration="6000000" />
     </task>
     <servers />
   </component>
